@@ -1,3 +1,8 @@
+" Vim indent file
+" Language: Embedded Elixir
+" URL:      https://github.com/elixir-lang/vim-elixir
+
+
 if exists("b:did_indent")
   finish
 endif
