@@ -168,7 +168,7 @@ hi def link elixirVariable               Identifier
 hi def link elixirSelf                   Identifier
 hi def link elixirUnusedVariable         Comment
 hi def link elixirNumber                 Number
-hi def link elixirDocString              String
+hi def link elixirDocString              Comment
 hi def link elixirAtomInterpolated       elixirAtom
 hi def link elixirRegex                  elixirString
 hi def link elixirRegexEscape            elixirSpecial
